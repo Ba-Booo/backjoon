@@ -1,7 +1,7 @@
 n = input()
 
 
-ls = list(reversed(range(int(n)))) + list(range(1,int(n)))
+ls = list( reversed( range( int(n) ) ) ) + list( range( 1, int(n) ) )
 
 
 for i in ls:  
@@ -15,6 +15,6 @@ for i in ls:
         print("*",end="")
 
 
-    print()
+    print()     #줄 바꿈
 
     
