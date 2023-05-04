@@ -16,5 +16,3 @@ for i in ls:
 
 
     print()     #줄 바꿈
-
-    
