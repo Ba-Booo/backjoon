@@ -1,6 +1,6 @@
 number = 0
 
-nk = input().split()    #약수새끼 버전시발
+nk = input().split()    #입력
 
 if int( nk[0] ) % int( nk[1] ) == 0:    #k가 n의 약수일때
 
